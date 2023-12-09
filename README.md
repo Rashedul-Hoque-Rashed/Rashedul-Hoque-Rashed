@@ -39,7 +39,21 @@
 ### Technologies that I know:
 
 <div align="center">
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/HTML.svg" alt="icon | HTML" width="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/CSS.svg" alt="icon | CSS" width="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/TailwindCSS-Dark.svg" alt="icon | TailwindCSS" width="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/MaterialUI-Dark.svg" alt="icon | MaterialUI" width="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/JavaScript.svg" alt="icon | Java Script" width="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/React-Dark.svg" alt="icon | React" width="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/Firebase-Dark.svg" alt="icon | Firebase" width="40px" />&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/NodeJS-Dark.svg" alt="icon | NodeJS" width="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/ExpressJS-Dark.svg" alt="icon | ExpressJS" width="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/MongoDB.svg" alt="icon | MongoDB" width="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/97a4296b821c2e138fcd27d92441ffb79d15d903/asset/icons/Vercel-Dark.svg" alt="icon | Vercel" width="40px" />&nbsp;&nbsp;&nbsp;
 
 
 </div>
