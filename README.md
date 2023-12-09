@@ -5,9 +5,9 @@
 
 ### Github Status:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rashedul-Hoque-Rashed&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rashedul-Hoque-Rashed&theme=transparent)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashedul-Hoque-Rashed&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashedul-Hoque-Rashed&layout=compact&theme=transparent)
 
 
 
@@ -24,7 +24,22 @@
 ### How to reach me:
 
 <div align="center">
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-[![Email](https://img.shields.io/badge/Email-you%40example.com-green)](rashedulhoqueceo@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-rashedul_hoque_rashed-blue)](https://www.linkedin.com/in/rashedul-hoque-rashed/) | [![Twitter](https://img.shields.io/badge/Twitter-@Rashedul2Hoque-blue)](https://twitter.com/Rashedul2Hoque)
+<a href="https://www.linkedin.com/in/rashedul-hoque-rashed/"><img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/main/asset/icons/icon4.png" alt="icon | LinkedIn" width="40px"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Rashedul2Hoque"><img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/main/asset/icons/icon2.png" alt="icon | Twitter" width="40px"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=61551070270317"><img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/main/asset/icons/icon1.png" alt="icon | Facebook" width="40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:rashedulhoqueceo@gmail.com"><img src="https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/main/asset/icons/icon3.png" alt="icon | Facebook" width="40px" /></a>
+
+</div>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
+### Technologies that I know:
+
+<div align="center">
+
+
 
 </div>
