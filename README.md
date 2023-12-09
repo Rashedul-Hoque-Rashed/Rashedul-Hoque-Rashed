@@ -1,14 +1,7 @@
 # Hi, I'am Rashedul Hoque 👋
 
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Rashedul-Hoque-Rashed/Rashedul-Hoque-Rashed/main/asset/Github%20Cover.png "San Juan Mountains")
-
-
-### Github Status:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rashedul-Hoque-Rashed&theme=transparent)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashedul-Hoque-Rashed&layout=compact&theme=transparent)
-
+Proficient in HTML, CSS, and JavaScript, with a flair for UI/UX using Tailwind CSS and Material-UI. Experienced in building scalable backends with Node.js and Express, and databases with MongoDB. Passionate about crafting seamless, responsive, and feature-rich web applications.
 
 
 ### Current Overview:
@@ -19,6 +12,13 @@
 - 🤔 I’m looking for help with optimizing performance in Next.js applications.
 - 💬 Ask me about MERN stack development.
 - ⚡ Fun fact: I enjoy stargazing. 🌌✨
+
+
+### Github Status:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rashedul-Hoque-Rashed&theme=transparent)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashedul-Hoque-Rashed&layout=compact&theme=transparent)
 
 
 ### How to reach me:
